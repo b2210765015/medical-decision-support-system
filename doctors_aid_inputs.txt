@@ -1,0 +1,7 @@
+create John 0.85 Lung Cancer 2/100 Chemotherapy 0.20
+create Alice 0.90 Heart Disease 5/100 Surgery 0.35
+list
+probability John
+recommendation Alice
+remove John
+list
